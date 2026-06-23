@@ -32,4 +32,3 @@ CERT Insider Threat Dataset r1 — Carnegie Mellon University
 - Google Colab T4 GPU
 - Python 3.10
 - TinyLlama 1.1B
-Name:- Swati Gouda
